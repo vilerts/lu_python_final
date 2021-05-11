@@ -1,3 +1,3 @@
 # lu_python_final
 
-![main](https://i.ibb.co/nLXf7tn/image.png)
+![main](https://i.ibb.co/sbgV5m0/image.png)
